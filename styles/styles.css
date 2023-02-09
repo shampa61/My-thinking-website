@@ -54,7 +54,7 @@
 main {
     width: 1072px;
     margin: 0 auto;
-    background-color: lightgreen;
+    /* background-color: lightgreen; */
     /* margin-top:130px; */
 }
 
@@ -67,7 +67,7 @@ main {
     align-items: center;
     margin-top: 130px;
     /* margin-bottom: 130px; */
-    background-color: #F15B22;
+    /* background-color: #F15B22; */
     /* justify-content: center; */
 
 }
@@ -82,7 +82,7 @@ main {
 }
 
 .my-plans {
-    background-color: lightcyan;
+    /* background-color: lightcyan; */
     margin-top: 130px;
     font-weight: 700;
     font-size: 40px;
@@ -113,7 +113,7 @@ main {
 }
 
 .watch {
-    background-color: #F15B22;
+    /* background-color: #F15B22; */
     margin-top: 130px;
     display: flex;
 
@@ -138,7 +138,7 @@ main {
 }
 
 .footer {
-    background-color: pink;
+    background-color: gray;
     margin-top: 130px;
     width: 1072px;
     margin: 0 auto;
