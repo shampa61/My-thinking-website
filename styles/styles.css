@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+}
+
+.banner img {
+    width: 50%;
+    margin-left: 70px;
+    margin-top: 35px;
+}
+
+.banner {
+    font-family: 'Work Sans';
+    display: flex;
+    background-color: #b9bdbe;
+    width: 1072px;
+    text-align: right;
+    margin: 0 auto;
+
+
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-top: 80px;
+    /* width:800px; */
+
+    padding-right: 35px;
+
+}
+
+.btn-primary {
+    background: #F15B22;
+    border-radius: 5px;
+    border-style: none;
+    padding: 20px 25px;
+    margin-bottom: 40px;
+    margin-right: 35px;
+
+
+
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    padding-right: 35px;
+}
+
+main {
+    width: 1072px;
+    margin: 0 auto;
+    background-color: lightgreen;
+    /* margin-top:130px; */
+}
+
+.person-section img {
+    width: 50%;
+}
+
+.person-section {
+    display: flex;
+    align-items: center;
+    margin-top: 130px;
+    /* margin-bottom: 130px; */
+    background-color: #F15B22;
+    /* justify-content: center; */
+
+}
+
+.person-description {
+    margin-top: 24px;
+    margin-left: 60px;
+}
+
+.person-section h2 {
+    margin-left: 60px;
+}
+
+.my-plans {
+    background-color: lightcyan;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.section-title {
+    /* margin-top: 200px; */
+}
+
+.my-plans p {
+    text-align: center;
+
+}
+
+.my-plans-1 {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 49px;
+
+}
+
+
+.my-plans h1 {
+    text-align: center;
+    margin-top: 130px;
+}
+
+.watch {
+    background-color: #F15B22;
+    margin-top: 130px;
+    display: flex;
+
+    background: url(../images/gradient2\ edited.png);
+    padding:64px 24px;
+    
+    
+}
+
+/* .watch img {
+    width: 1072px;
+} */
+
+.skill {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.skill-description {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.footer {
+    background-color: pink;
+    margin-top: 130px;
+    width: 1072px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 130px;
+    padding-top: 130px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    width: 50%;
+}
+
+/* .footer-title {
+    font-weight: 700;
+    font-size: 45px;
+} */
+
+.footer-description {
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.footer-img {
+    display: flex;
+    margin-top: 32px;
+}
+
+.subscribe {
+    margin-top: 16px;
+
+}
+
+.subscribe-1,
+.callnow {
+    color: #F15B22;
+    border-style: none;
+    padding: 20px 36px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 24px;
+    margin-left: 20px;
+
+}
+
+.positive {
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 20px;
+    color: white;
+}
